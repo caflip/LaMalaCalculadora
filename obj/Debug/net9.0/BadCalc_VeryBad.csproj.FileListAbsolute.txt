@@ -1,0 +1,15 @@
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\bin\Debug\net9.0\BadCalc_VeryBad.exe
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\bin\Debug\net9.0\BadCalc_VeryBad.deps.json
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\bin\Debug\net9.0\BadCalc_VeryBad.runtimeconfig.json
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\bin\Debug\net9.0\BadCalc_VeryBad.dll
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\bin\Debug\net9.0\BadCalc_VeryBad.pdb
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\obj\Debug\net9.0\BadCalc_VeryBad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\obj\Debug\net9.0\BadCalc_VeryBad.AssemblyInfoInputs.cache
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\obj\Debug\net9.0\BadCalc_VeryBad.AssemblyInfo.cs
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\obj\Debug\net9.0\BadCalc_VeryBad.csproj.CoreCompileInputs.cache
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\obj\Debug\net9.0\BadCalc_VeryBad.sourcelink.json
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\obj\Debug\net9.0\BadCalc_VeryBad.dll
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\obj\Debug\net9.0\refint\BadCalc_VeryBad.dll
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\obj\Debug\net9.0\BadCalc_VeryBad.pdb
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\obj\Debug\net9.0\BadCalc_VeryBad.genruntimeconfig.cache
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\obj\Debug\net9.0\ref\BadCalc_VeryBad.dll

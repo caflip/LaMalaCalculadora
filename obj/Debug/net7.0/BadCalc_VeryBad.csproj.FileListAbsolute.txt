@@ -26,3 +26,4 @@ D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora
 D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\obj\Debug\net7.0\BadCalc_VeryBad.pdb
 D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\obj\Debug\net7.0\BadCalc_VeryBad.genruntimeconfig.cache
 D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\obj\Debug\net7.0\ref\BadCalc_VeryBad.dll
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\LaMalaCalculadora\obj\Debug\net7.0\BadCalc_VeryBad.sourcelink.json
